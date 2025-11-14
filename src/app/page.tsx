@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -154,7 +154,6 @@ export default function Home() {
               role: "Business Executive",
               company: "TechCorp Solutions",
               rating: 5,
-              content: "Outstanding service and premium vehicles. The team at AutoElite made my car buying experience seamless and enjoyable.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763150340354-iwvy18jc.jpg",
               imageAlt: "Professional business person portrait"
             },
@@ -164,7 +163,6 @@ export default function Home() {
               role: "Marketing Director",
               company: "Creative Agency",
               rating: 5,
-              content: "Exceptional quality and transparent pricing. I found my dream car with complete peace of mind and excellent warranty coverage.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763150341241-7z1hj3q4.jpg",
               imageAlt: "Happy customer business woman"
             },
@@ -174,7 +172,6 @@ export default function Home() {
               role: "Senior Manager",
               company: "Finance Group",
               rating: 5,
-              content: "Professional team with years of experience. They guided me through every step and helped me find the perfect vehicle.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763150342024-l8qcvxyf.jpg",
               imageAlt: "Satisfied customer man portrait"
             },
@@ -184,7 +181,6 @@ export default function Home() {
               role: "Project Lead",
               company: "Innovation Labs",
               rating: 5,
-              content: "Carefully curated collection of luxury vehicles. The financing options were competitive and the service was absolutely exceptional.",
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32pj8e1GcgiOEWWC6aYveoEdoWX/uploaded-1763150342548-hf8dnnuo.jpg",
               imageAlt: "Professional executive portrait"
             }
